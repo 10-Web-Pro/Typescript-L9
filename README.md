@@ -11,3 +11,4 @@ APİ документация:
 https://rapidapi.com/socialminer/api/reddit34/
 
 
+![image](https://user-images.githubusercontent.com/55394442/199150552-a15c2aab-206b-49d2-8d44-b0992cd45abe.png)
