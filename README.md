@@ -28,6 +28,9 @@ https://rapidapi.com/socialminer/api/reddit34/
  - https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2
 
 
+Удачи! ;)
+
+
 
  
 
